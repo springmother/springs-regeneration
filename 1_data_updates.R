@@ -4,7 +4,7 @@
 ### Date Created: 8/31/2023
 ### by: Grace Peven, gpeven@uidaho.edu
 ############################################
-
+install.packages("dplyr")
 library(dplyr)
 
 ######### RUN THIS SCRIPT FIRST ################
@@ -12,7 +12,7 @@ library(dplyr)
 ####################
 ## 1. Import Data ##
 ####################
-setwd("C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/FieldData_2023/Conifer_Regen/")  # set working directory
+setwd()                                                                         # set working directory
 
 transectdata = read.csv("Transectdata_FINAL.csv", header = TRUE)                # read in transect dataset. 
 
@@ -50,7 +50,7 @@ transectdata$elevation_m = transectdata$Elevation_ft/3.281
 colSums(is.na(transectdata))                                                    #Identify if there are missing values, and where they are located
 
 transectdata$Average_dist_to_live_tree[is.na(transectdata$Average_dist_to_live_tree)] <- 500 # Populate missing distance to live tree column with default value of 500.
-# Missing values indicate there were no trees in sight.  
+                                                                                              # Missing values indicate there were no trees in sight.  
 
 
 #############################################################
