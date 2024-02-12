@@ -10,43 +10,6 @@ library(ggplot2)
 library(dplyr)
 require(corrplot)
 require(RColorBrewer)
-source("C:/Users/gpeven/OneDrive - University of Idaho/Coursework/Fall 2023/GLMM_highlandstats/AllData_OnlineGLMMFreq/AllData/HighstatLibV13.R")
-# above package is from Highland Stats file with custom functions
-
-##############################
-#### Description of Study ####
-##############################
-
-#This study aims to quantify spring influence on post-fire conifer 
-#regeneration in high severity burned areas in the Northern Rocky Mountains. 
-
-############################
-#### Research Questions ####
-############################
-
-#(1) Are there differences between tree density and age with increasing distance from spring? 
-#(2) Is distance from spring a significant predictor of tree density? 
-
-
-###########################
-#### Response Variables ####
-###########################
-
-# Tree Count
-
-
-#####################
-#### Covariates ####
-####################
-
-# 1. Distance to spring (categorical)
-# 2. Distance to seed source (continuous)
-# 2. Transect Slope (continuous)
-# 3. Elevation (continuous)
-# 4. Understory vegetation density (continuous)
-# 5. Time since fire?
-# 6. Forest Type 
-
 
 ################################################
 ############### Data Exploration ###############
@@ -95,6 +58,7 @@ skewness(tree_counts$Tree_Count) # skewness = 4.1 , meaning the data are extreme
 # R function below provided by Highland Statistics Ltd.
 #Mixed effects models and extensions in ecology with R. (2009).
 #Zuur, AF, Ieno, EN, Walker, N, Saveliev, AA, and Smith, GM. Springer.
+
 Mydotplot <- function(DataSelected){
   
   P <- dotplot(as.matrix(as.matrix(DataSelected)),
@@ -164,8 +128,6 @@ MyMultipanel.ggp2(Z = tree_counts,                   # this function doesn't wor
 
 
 
-
-
 ### Summarize data exploration findings overall
 # zero inflation issues: maybe
 # distribution type: poisson or nbinom
@@ -183,8 +145,7 @@ ggplot(PSME_counts, aes(x = Area_ha, y = Tree_Count))+
   geom_smooth(method = "lm")
 
 ### interaction effect HLI and dist to spring??
-
-hli_spring =ggplot(tree_counts, aes(x = HLI_transect, y = Density, color = Distance_range_m)) +
+ggplot(tree_counts, aes(x = HLI_transect, y = Density, color = Distance_range_m)) +
   geom_point()+
   geom_smooth(method = "glm", se = FALSE)+
 labs(fill = "Distance to spring (m)",
@@ -202,7 +163,6 @@ labs(fill = "Distance to spring (m)",
         legend.position = "bottom",  
         legend.box = "horizontal"
   )
-
 
 ## explore clim/density relationships
 ggplot(PSME_counts, aes(x = avg_sum_precip_5yr, y = Density))+geom_point()+geom_smooth(method = "glm")
