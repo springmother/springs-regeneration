@@ -37,9 +37,6 @@ growth_rate %>%
         axis.title.y = element_text(size = 10),
         axis.title.x = element_text(size = 10))
 
-ggsave(filename = "C:/Users/gpeve/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/PSME_gr.jpeg",  width = 5, height = 2.5, units = "in",dpi = 500)
-
-
 #############################################
          ### lodgepole pine ###
 #############################################
@@ -65,7 +62,5 @@ growth_rate %>%
         axis.text.y = element_text(size = 10), 
         axis.title.y = element_text(size = 10),
         axis.title.x = element_text(size = 10))
-
-ggsave(filename = "C:/Users/gpeve/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/PICO_gr.jpeg",  width = 5, height = 2.5, units = "in",dpi = 500)
 
 ########################################################
