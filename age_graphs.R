@@ -9,7 +9,6 @@
 
 library(ggplot2)
 library(gridExtra)
-library(stringr)
 library(dplyr)
 
 ###########################################################
@@ -77,10 +76,6 @@ a2 = transectdata %>%
   )
 
 a3 = grid.arrange(a1, a2, nrow = 2)
-
-ggsave(filename = "C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/PSME_PICO_age_v2.jpeg",  plot = a3, width = 6.5, height = 5, units = "in",dpi = 500)
-
-
 
 ################################
 ### Summary with Fire Year
