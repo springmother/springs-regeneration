@@ -1,0 +1,170 @@
+Spring_Name,Distance_to_spring_m,Species,Height_m,Age_yrs,Growth_Rate,Method
+Hole_complex,0_10,PSME,0.07,2,0.035,whorl
+Hole_complex,10_20,PSME,0.67,12,0.055833333,whorl
+Hole_complex,20_30,PSME,3.1,17,0.182352941,borer
+Hole_complex,20_30,PSME,2.3,16,0.14375,borer
+Hole_complex,20_30,PSME,1.14,15,0.076,borer
+Hole_complex,20_30,PSME,3.5,19,0.184210526,borer
+Hole_complex,20_30,PSME,3.5,19,0.184210526,borer
+Hole_complex,0_10,PSME,5.6,20,0.28,borer
+Hole_complex,0_10,PSME,5.5,19,0.289473684,borer
+Hole_complex,10_20,PSME,4.2,14,0.3,borer
+Hole_complex,10_20,PSME,3.8,13,0.292307692,borer
+Hole_complex,10_20,PSME,4.2,14,0.3,borer
+Hole_complex,10_20,PSME,5,20,0.25,borer
+Hole_complex,10_20,PSME,5.5,19,0.289473684,borer
+Hole_complex,20_30,PSME,5.3,18,0.294444444,borer
+Hole_complex,20_30,PSME,4.5,17,0.264705882,borer
+Hole_complex,20_30,PSME,3.2,16,0.2,borer
+Hole_complex,20_30,PSME,3.2,14,0.228571429,borer
+Hole_complex,20_30,PSME,3.7,13,0.284615385,borer
+Hole_complex,30_40,PSME,3.1,19,0.163157895,borer
+Hole_complex,0_10,PSME,5.6,15,0.373333333,borer
+Hole_complex,0_10,PSME,1.9,12,0.158333333,borer
+Hole_complex,0_10,PSME,5.3,14,0.378571429,borer
+Hole_complex,0_10,PSME,2.3,10,0.23,borer
+Calf,10_20,PICO,6.3,24,0.2625,borer
+Calf,10_20,PICO,2.4,17,0.141176471,borer
+Calf,10_20,PICO,4,16,0.25,borer
+Calf,10_20,PICO,3.4,12,0.283333333,borer
+Calf,30_40,PICO,1.4,14,0.1,whorl
+Calf,30_40,PICO,1.7,13,0.130769231,whorl
+Picea,0_10,PIEN,1.2,13,0.092307692,whorl
+Picea,0_10,PIEN,1.4,13,0.107692308,whorl
+Picea,10_20,PICO,5.1,17,0.3,borer
+Picea,0_10,PICO,4.4,13,0.338461538,borer
+Picea,0_10,PICO,3.4,13,0.261538462,borer
+Picea,10_20,PICO,2.2,11,0.2,whorl
+Picea,30_40,PSME,0.6,10,0.06,whorl
+Bog,0_10,PICO,4.5,17,0.264705882,borer
+Bog,0_10,PICO,1.7,14,0.121428571,whorl
+Bog,0_10,PICO,5,20,0.25,borer
+Bog,10_20,PICO,3.2,18,0.177777778,borer
+Bog,10_20,PICO,0.24,5,0.048,whorl
+Bog,20_30,PICO,0.13,2,0.065,whorl
+Bog,10_20,PIEN,3,19,0.157894737,borer
+Big Slump,0_10,PICO,2.3,12,0.191666667,whorl
+Big Slump,0_10,PICO,6.4,16,0.4,borer
+Big Slump,0_10,PSME,0.3,9,0.033333333,whorl
+Big Slump,0_10,PICO,4.3,16,0.26875,borer
+Big Slump,0_10,PICO,9,21,0.428571429,borer
+Big Slump,0_10,PSME,1.7,14,0.121428571,whorl
+Big Slump,0_10,PSME,0.6,8,0.075,whorl
+Big Slump,20_30,PSME,0.2,6,0.033333333,whorl
+Big Slump,20_30,PSME,1.1,11,0.1,whorl
+Big Slump,20_30,PSME,0.8,13,0.061538462,whorl
+Big Slump,20_30,PICO,2.3,18,0.127777778,whorl
+Big Slump,30_40,PICO,0.9,11,0.081818182,whorl
+Big Slump,10_20,PSME,3.5,17,0.205882353,borer
+Nettle_Complex,30_40,PSME,2.7,15,0.18,borer
+Nettle_Complex,0_10,PSME,1,16,0.0625,whorl
+Nettle_Complex,0_10,PSME,0.45,7,0.064285714,whorl
+Nettle_Complex,0_10,PSME,0.87,14,0.062142857,whorl
+Nettle_Complex,0_10,PSME,1.3,16,0.08125,whorl
+Nettle_Complex,0_10,PSME,3,15,0.2,borer
+Nettle_Complex,0_10,PSME,4.1,19,0.215789474,borer
+Nettle_Complex,0_10,PSME,0.5,10,0.05,whorl
+Nettle_Complex,0_10,PSME,2.45,20,0.1225,whorl
+Nettle_Complex,0_10,PSME,4.4,19,0.231578947,borer
+Nettle_Complex,0_10,PSME,2.42,13,0.186153846,whorl
+Nettle_Complex,0_10,PSME,1.55,11,0.140909091,whorl
+Nettle_Complex,0_10,PSME,3.4,19,0.178947368,borer
+North_Pioneer,0_10,PICO,2.3,11,0.209090909,whorl
+North_Pioneer,0_10,PICO,4,16,0.25,borer
+North_Pioneer,0_10,PSME,0.3,6,0.05,whorl
+North_Pioneer,0_10,PSME,0.82,13,0.063076923,whorl
+North_Pioneer,0_10,PSME,1.6,13,0.123076923,whorl
+North_Pioneer,0_10,PICO,4.7,14,0.335714286,borer
+North_Pioneer,10_20,PSME,1.1,12,0.091666667,whorl
+North_Pioneer,10_20,PSME,1.65,12,0.1375,whorl
+North_Pioneer,10_20,PSME,0.1,3,0.033333333,whorl
+North_Pioneer,10_20,PSME,0.09,2,0.045,whorl
+North_Pioneer,0_10,PIEN,0.4,10,0.04,whorl
+North_Pioneer,30_40,PSME,0.95,11,0.086363636,whorl
+North_Pioneer,30_40,PSME,0.7,11,0.063636364,whorl
+North_Pioneer,20_30,PSME,0.05,2,0.025,whorl
+North_Pioneer,20_30,PSME,1.05,12,0.0875,whorl
+Cave,10_20,PSME,0.33,8,0.04125,whorl
+Cave,10_20,PSME,0.96,10,0.096,whorl
+Game Knob,0_10,PSME,0.3,8,0.0375,whorl
+Game Knob,10_20,PSME,0.05,1,0.05,whorl
+Game Knob,10_20,PSME,0.05,1,0.05,whorl
+Game Knob,10_20,PSME,0.6,7,0.085714286,whorl
+Game Knob,10_20,PSME,0.55,9,0.061111111,whorl
+Game Knob,10_20,PSME,0.65,11,0.059090909,whorl
+Game Knob,10_20,PSME,0.95,11,0.086363636,whorl
+Game Knob,20_30,PSME,1.6,14,0.114285714,whorl
+Helesport,0_10,PSME,2.8,18,0.155555556,whorl
+Helesport,20_30,PSME,2.2,14,0.157142857,borer
+Helesport,20_30,PICO,2.9,18,0.161111111,borer
+Helesport,20_30,PSME,0.6,9,0.066666667,whorl
+Helesport,30_40,PSME,0.46,7,0.065714286,whorl
+Helesport,30_40,PSME,0.4,7,0.057142857,whorl
+Helesport,30_40,PSME,1.45,12,0.120833333,whorl
+Helesport,30_40,PSME,2.5,14,0.178571429,borer
+Helesport,10_20,PSME,0.6,9,0.066666667,whorl
+Helesport,10_20,PSME,0.3,5,0.06,whorl
+Helesport,10_20,PSME,0.35,7,0.05,whorl
+Helesport,20_30,PSME,0.15,3,0.05,whorl
+Sedge,0_10,PSME,2.45,12,0.204166667,whorl
+Ceanothus,0_10,PSME,1.2,14,0.085714286,whorl
+Ceanothus,30_40,PSME,0.2,6,0.033333333,whorl
+Ceanothus,0_10,PSME,1,9,0.111111111,whorl
+Ceanothus,0_10,PSME,0.3,6,0.05,whorl
+Ceanothus,0_10,PSME,0.1,3,0.033333333,whorl
+Ceanothus,0_10,PSME,4.1,14,0.292857143,borer
+Ceanothus,0_10,PSME,0.55,11,0.05,whorl
+Ceanothus,0_10,PICO,0.5,5,0.1,whorl
+Ceanothus,0_10,PICO,0.25,4,0.0625,whorl
+Ceanothus,10_20,PICO,0.7,6,0.116666667,whorl
+Ceanothus,20_30,PSME,1.75,15,0.116666667,whorl
+Ceanothus,20_30,PICO,0.5,5,0.1,whorl
+Ceanothus,20_30,PSME,2.7,13,0.207692308,borer
+Ceanothus,20_30,PICO,7.2,33,0.218181818,borer
+Aspens,0_10,PSME,0.28,9,0.031111111,whorl
+Aspens,10_20,PSME,0.27,9,0.03,whorl
+Aspens,0_10,PSME,0.33,8,0.04125,whorl
+Aspens,0_10,PSME,0.98,16,0.06125,whorl
+Aspens,10_20,PSME,1.9,12,0.158333333,borer
+Wolf Skull,0_10,PICO,0.6,7,0.085714286,whorl
+Wolf Skull,0_10,PICO,0.4,5,0.08,whorl
+Wolf Skull,10_20,PSME,0.55,10,0.055,whorl
+Wolf Skull,20_30,PSME,6.6,19,0.347368421,borer
+Wolf Skull,30_40,PSME,2.65,16,0.165625,whorl
+Wolf Skull,0_10,PICO,12,26,0.461538462,borer
+Fireweed,0_10,PIPO,0.55,6,0.091666667,whorl
+Fireweed,0_10,PSME,1.1,10,0.11,whorl
+Fireweed,0_10,PSME,0.2,4,0.05,whorl
+Fireweed,0_10,PSME,2.05,11,0.186363636,whorl
+Fireweed,10_20,PICO,4,13,0.307692308,borer
+Fireweed,10_20,PSME,0.75,11,0.068181818,whorl
+Fireweed,20_30,PSME,0.5,5,0.1,whorl
+Fireweed,20_30,PICO,5.5,15,0.366666667,borer
+Fireweed,30_40,PSME,2.4,13,0.184615385,whorl
+Little Hole,0_10,PIPO,0.55,6,0.091666667,whorl
+Little Hole,0_10,PSME,0.9,11,0.081818182,whorl
+Black Talus,20_30,PIPO,0.75,9,0.083333333,whorl
+Black Talus,20_30,PIPO,0.55,7,0.078571429,whorl
+Black Talus,20_30,PIPO,0.45,5,0.09,whorl
+Big Joe,0_10,PSME,1.45,12,0.120833333,whorl
+Big Joe,30_40,PSME,0.4,6,0.066666667,whorl
+West Goat,0_10,PIPO,2.7,12,0.225,whorl
+West Goat,0_10,PSME,1.4,11,0.127272727,whorl
+West Goat,0_10,PSME,1.05,9,0.116666667,whorl
+West Goat,0_10,PIPO,0.3,2,0.15,whorl
+West Goat,0_10,PIPO,0.55,6,0.091666667,whorl
+West Goat,20_30,PSME,0.6,9,0.066666667,whorl
+West Goat,30_40,PIPO,0.5,4,0.125,whorl
+Gun Shot,0_10,PSME,3.2,17,0.188235294,borer
+Gun Shot,0_10,PSME,1.3,11,0.118181818,whorl
+Gun Shot,0_10,PSME,5.4,9,0.6,borer
+Meadow,0_10,PIPO,2.5,9,0.277777778,borer
+Meadow,0_10,PSME,4.6,16,0.2875,borer
+Meadow,0_10,PICO,5,17,0.294117647,borer
+Meadow,10_20,PSME,0.7,8,0.0875,whorl
+Meadow,20_30,PSME,1.15,13,0.088461538,whorl
+Charred Snag,0_10,PICO,9,19,0.473684211,borer
+Charred Snag,10_20,PICO,5.1,14,0.364285714,borer
+Charred Snag,10_20,PICO,1.1,14,0.078571429,whorl
+Charred Snag,20_30,PICO,5.5,18,0.305555556,borer
+Charred Snag,0_10,PSME,4.8,15,0.32,borer
