@@ -86,9 +86,6 @@ g1 = g1 +
 g1 = g1 +
   geom_text(x = 4, y = 3, label = "R2 = 87%, RMSE = 1.54", size = 4, family = "serif")
 
-
-ggsave(filename = "C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/age_height_model/PSME_1988.jpeg", plot = g1,  width = 6.5, height = 3, units = "in",dpi = 500)
-
 ################################################################################
 ## 2000 and 2006 fires were combined because of small sample size in 2006 fire.
 PSME_2000_2006 = age_height %>%
@@ -128,9 +125,6 @@ g2 = g2 +
   geom_text(x = 3, y = 6, label = "y = 3.133*log(height) + 10.7284", size = 4, family = "serif")
 g2 = g2 +
   geom_text(x = 4, y = 4, label = "R2 = 66%, RMSE = 2.01", size = 4, family = "serif")
-
-
-ggsave(filename = "C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/age_height_model/PSME_2000.jpeg", plot = g2,  width = 6.5, height = 3, units = "in",dpi = 500)
 
 
 ###################################
@@ -174,9 +168,6 @@ g4 = g4 +
   geom_text(x = 7.5, y = 6, label = "y = 7.622*log(height) + 11.468", size = 4, family = "serif")
 g4 = g4 +
   geom_text(x = 7.5, y = 2, label = "R2 = 89%, RMSE = 3.2", size = 4, family = "serif")
-
-
-ggsave(filename = "C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/age_height_model/PICO_1988.jpeg", plot = g4,  width = 6.5, height = 3, units = "in",dpi = 500)
 
 
 
@@ -224,8 +215,6 @@ g5 = g5 +
   geom_text(x = 5, y = 4, label = "R2 = 69%, RMSE = 2.2", size = 4, family = "serif")
 
 
-ggsave(filename = "C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/age_height_model/PICO_2000.jpeg", plot = g5,  width = 6.5, height = 3, units = "in",dpi = 500)
-
 
 #############################
      ## other species ##
@@ -271,9 +260,6 @@ g6 = g6 +
 
 ### combine into one graph
 age_height_models = grid.arrange(arrangeGrob(g1, g2, g4, g5, g6,  ncol = 2))
-ggsave(filename = "C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/age_height_models.jpeg", plot = age_height_models,  width = 8, height = 9, units = "in",dpi = 500)
-
-
 
 #############################################################
 ### Ready for density_time_since_fire.R and age_graphs.R  ###
