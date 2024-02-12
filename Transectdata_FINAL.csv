@@ -1,0 +1,1117 @@
+Spring_Name,Transect_ID,Transect_Slope_deg,Transect_width_m,Average_dist_to_live_tree,Distance_rank,Distance_range_m,CC_1_PCT,CC_2_PCT,CC_3_PCT,dom_cover_type,Species,Count,Height_m,Area_m2,Notes
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,5,0_10,0,30,70,shrub,PSME,1,5.2,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,5,0_10,0,30,70,shrub,PSME,1,1.3,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,3.3,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,1.95,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,3.5,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,5.3,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,4.2,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,4.2,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,2.2,100,2021 burn
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,0.15,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,1,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,1.1,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PSME,1,5.2,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PSME,1,2.25,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PSME,1,1.75,100,2021 burn
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PSME,1,2.65,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PSME,1,1.9,100,2021 burn
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PSME,1,0.5,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PSME,1,2.35,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PICO,1,3.4,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PICO,1,1.85,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,35,30_40,100,0,0,grass/shrub,PSME,1,0.75,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,35,30_40,100,0,0,grass/shrub,PSME,1,0.35,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,35,30_40,100,0,0,grass/shrub,PSME,1,1.1,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,35,30_40,100,0,0,grass/shrub,PSME,1,1.6,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,35,30_40,100,0,0,grass/shrub,PSME,1,2.8,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,35,30_40,100,0,0,grass/shrub,PICO,0,,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,25,20_30,100,0,0,bare/grass,PICO,0,,100,
+Mountain Alder,Alder_20231002_259_1,4,10,206.9,15,10_20,0,90,10,shrub,PICO,0,,100,
+Aspens,Aspens_20230918_108_1,10,5,246,25,20_30,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_108_1,10,5,246,35,30_40,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_108_1,10,5,246,15,10_20,80,20,0,shrub/rock,PSME,1,0.27,50,
+Aspens,Aspens_20230918_108_1,10,5,246,5,0_10,20,80,0,shrub/tree,PSME,1,0.28,50,
+Aspens,Aspens_20230918_115_4,12,10,229.1666667,35,30_40,100,0,0,rock,PSME,0,,100,
+Aspens,Aspens_20230918_115_4,12,10,229.1666667,15,10_20,95,5,0,shrub/rock,PSME,1,1.9,100,
+Aspens,Aspens_20230918_115_4,12,10,229.1666667,25,20_30,95,5,0,tree/rock,PSME,0,,100,
+Aspens,Aspens_20230918_115_4,12,10,229.1666667,5,0_10,0,50,50,shrub/tree,PSME,1,0.98,100,
+Aspens,Aspens_20230918_300_3,30,5,250,15,10_20,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_300_3,30,5,250,25,20_30,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_300_3,30,5,250,35,30_40,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_300_3,30,5,250,5,0_10,20,10,70,shrub/tree,PSME,0,,50,
+Aspens,Aspens_20230918_308_2,15,5,206.6666667,15,10_20,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_308_2,15,5,206.6666667,25,20_30,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_308_2,15,5,206.6666667,35,30_40,100,0,0,rock,PSME,0,,50,
+Aspens,Aspens_20230918_308_2,15,5,206.6666667,5,0_10,40,20,40,shrub/tree,PSME,1,0.33,50,
+Big Joe,BJ_20231002_155_2,3,20,89.6,35,30_40,70,30,0,shrub,PSME,1,0.4,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,25,20_30,60,40,0,shrub,PSME,1,2.1,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,15,10_20,30,70,0,shrub,PSME,1,1.8,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,15,10_20,30,70,0,shrub,PSME,1,1.9,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,15,10_20,30,70,0,shrub,PSME,1,4.6,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,15,10_20,30,70,0,shrub,PSME,1,2.05,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,15,10_20,30,70,0,shrub,PSME,1,2.4,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,5,0_10,15,80,5,shrub,PSME,1,4.3,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,5,0_10,15,80,5,shrub,PSME,1,1.25,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,5,0_10,15,80,5,shrub,PSME,1,1.45,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,5,0_10,15,80,5,shrub,PSME,1,1.5,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,5,0_10,15,80,5,shrub,PSME,1,1.55,200,
+Big Joe,BJ_20231002_155_2,3,20,89.6,5,0_10,15,80,5,shrub,PSME,1,0.45,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,15,10_20,50,50,0,shrub,PSME,1,1.8,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,25,20_30,50,50,0,shrub,PSME,1,1.5,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,25,20_30,50,50,0,shrub,PSME,1,1.5,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,25,20_30,50,50,0,shrub,PSME,1,2.3,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,25,20_30,50,50,0,shrub,PSME,1,1.7,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,25,20_30,50,50,0,shrub,PSME,1,2.65,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,25,20_30,50,50,0,shrub,PSME,1,2.6,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,25,20_30,50,50,0,shrub,PSME,1,2.45,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,35,30_40,50,50,0,shrub,PSME,1,2.6,200,
+Big Joe,BJ_20231002_348_1,3,20,50.1,35,30_40,50,50,0,shrub,PSME,1,2.25,200,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Big Joe,BJ_20231002_348_1,3,20,50.1,35,30_40,50,50,0,shrub,PSME,1,2.61,200,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Big Joe,BJ_20231002_348_1,3,20,50.1,35,30_40,50,50,0,shrub,PSME,1,1.45,200,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Big Joe,BJ_20231002_348_1,3,20,50.1,35,30_40,50,50,0,shrub,PSME,1,0.4,200,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+Big Joe,BJ_20231002_348_1,3,20,50.1,35,30_40,50,50,0,shrub,PSME,1,0.55,200,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+Big Joe,BJ_20231002_348_1,3,20,50.1,5,0_10,0,25,75,shrub,PSME,1,0.1,200,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+Bog,Bog_20230622_172_1,13,5,NA,15,10_20,100,0,0,grass/tree,PICO,1,3.9,50,
+Bog,Bog_20230622_172_1,13,5,NA,15,10_20,100,0,0,grass/tree,PICO,1,3.4,50,
+Bog,Bog_20230622_172_1,13,5,NA,15,10_20,100,0,0,grass/tree,PICO,1,4.1,50,
+Bog,Bog_20230622_172_1,13,5,NA,15,10_20,100,0,0,grass/tree,PICO,1,6.3,50,
+Bog,Bog_20230622_172_1,13,5,NA,15,10_20,100,0,0,grass/tree,PICO,1,3.2,50,
+Bog,Bog_20230622_172_1,13,5,NA,15,10_20,100,0,0,grass/tree,PICO,1,0.24,50,
+Bog,Bog_20230622_172_1,13,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,0.13,50,
+Bog,Bog_20230622_172_1,13,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,4.8,50,
+Bog,Bog_20230622_172_1,13,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,5,50,
+Bog,Bog_20230622_172_1,13,5,NA,35,30_40,60,40,0,shrub/tree,PICO,1,0.25,50,
+Bog,Bog_20230622_172_1,13,5,NA,35,30_40,60,40,0,shrub/tree,PICO,1,0.1,50,
+Bog,Bog_20230622_172_1,13,5,NA,35,30_40,60,40,0,shrub/tree,PICO,1,0.1,50,
+Bog,Bog_20230622_172_1,13,5,NA,35,30_40,60,40,0,shrub/tree,PICO,1,0.1,50,
+Bog,Bog_20230622_172_1,13,5,NA,35,30_40,60,40,0,shrub/tree,PICO,1,4.3,50,
+Bog,Bog_20230622_172_1,13,5,NA,35,30_40,60,40,0,shrub/tree,PICO,1,0.2,50,
+Bog,Bog_20230622_172_1,13,5,NA,5,0_10,90,5,5,grass,PICO,1,4.5,50,
+Bog,Bog_20230622_172_1,13,5,NA,5,0_10,90,5,5,grass,PICO,1,1.7,50,
+Bog,Bog_20230622_172_1,13,5,NA,5,0_10,90,5,5,grass,PICO,1,5,50,
+Bog,Bog_20230622_230_4,11,5,NA,5,0_10,55,40,5,grass,PICO,1,1,50,
+Bog,Bog_20230622_230_4,11,5,NA,5,0_10,55,40,5,grass,PICO,1,0.3,50,
+Bog,Bog_20230622_230_4,11,5,NA,5,0_10,55,40,5,grass,PICO,1,0.2,50,
+Bog,Bog_20230622_230_4,11,5,NA,5,0_10,55,40,5,grass,PICO,1,0.2,50,
+Bog,Bog_20230622_230_4,11,5,NA,5,0_10,55,40,5,grass,PICO,1,0.1,50,
+Bog,Bog_20230622_230_4,11,5,NA,15,10_20,100,0,0,grass,PICO,1,6.2,50,
+Bog,Bog_20230622_230_4,11,5,NA,25,20_30,100,0,0,bare,PICO,0,,50,
+Bog,Bog_20230622_230_4,11,5,NA,35,30_40,100,0,0,bare,PICO,0,,50,
+Bog,Bog_20230622_310_2,13,5,NA,5,0_10,95,0,5,grass,PIEN,1,3,50,
+Bog,Bog_20230622_310_2,13,5,NA,5,0_10,95,0,5,grass,PICO,1,4,50,Transect runs through higher severity patch than other 2 transects. 
+Bog,Bog_20230622_310_2,13,5,NA,15,10_20,100,0,0,grass,PIEN,0,,50,
+Bog,Bog_20230622_310_2,13,5,NA,15,10_20,100,0,0,grass,PICO,0,,50,
+Bog,Bog_20230622_310_2,13,5,NA,25,20_30,100,0,0,grass,PICO,1,3.6,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_310_2,13,5,NA,25,20_30,100,0,0,grass,PIEN,0,,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_310_2,13,5,NA,35,30_40,100,0,0,grass,PIEN,0,,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_310_2,13,5,NA,35,30_40,100,0,0,grass,PICO,0,,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_330_3,8,5,NA,5,0_10,60,30,10,grass/shrub,PICO,1,0.1,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_330_3,8,5,NA,5,0_10,60,30,10,grass/shrub,PICO,1,0.1,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_330_3,8,5,NA,5,0_10,60,30,10,grass/shrub,PICO,1,4.4,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_330_3,8,5,NA,5,0_10,60,30,10,grass/shrub,PICO,1,5,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_330_3,8,5,NA,5,0_10,60,30,10,grass/shrub,PICO,1,0.1,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_330_3,8,5,NA,15,10_20,100,0,0,grass,PICO,0,,50,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Bog,Bog_20230622_330_3,8,5,NA,25,20_30,100,0,0,grass,PICO,0,,50,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+Bog,Bog_20230622_330_3,8,5,NA,35,30_40,100,0,0,grass,PICO,1,5.6,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PSME,1,1.7,50,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PSME,1,0.6,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PICO,1,3.5,50,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PICO,1,4.8,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PICO,1,2,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PICO,1,6.4,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PICO,1,4.9,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,5,0_10,0,60,40,tree,PICO,1,5.3,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,15,10_20,70,30,0,shrub,PICO,1,4.7,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,15,10_20,70,30,0,shrub,PSME,0,,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PICO,1,3.6,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PICO,1,4.9,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PICO,1,4.6,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PICO,1,4.4,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PICO,1,2.3,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PSME,1,0.2,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PSME,1,1.1,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,25,20_30,70,30,0,tree/shrub,PSME,1,0.8,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,3.7,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,3.4,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,0.9,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,4.1,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,4.6,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,2.5,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,4.8,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,1.6,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,1.5,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,3,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,3.4,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,2.7,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,2.9,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,3.7,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PICO,1,4.3,50,
+Big Slump,BSS_20230622_180_2,19,5,NA,35,30_40,50,50,0,tree,PSME,1,0.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,5,0_10,0,50,50,tree,PICO,1,6.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,5,0_10,0,50,50,tree,PICO,1,4.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,5,0_10,0,50,50,tree,PICO,1,6.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,5,0_10,0,50,50,tree,PICO,1,3.6,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,5,0_10,0,50,50,tree,PSME,1,3.5,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,15,10_20,100,0,0,shrub,PICO,1,4.5,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,15,10_20,100,0,0,shrub,PSME,1,0.6,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,4,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,3.5,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,2.6,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,5,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,3.2,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,25,20_30,80,20,0,shrub/tree,PICO,1,4.7,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,25,20_30,80,20,0,shrub/tree,PSME,1,0.6,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,0.8,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,5.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,4.4,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,4.7,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,3.7,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,4.7,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,0.5,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,3.2,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,3.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,3.2,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,4.8,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,4.4,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,4.9,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,4.9,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,5.1,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,5.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,3.4,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,2.5,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PICO,1,3.9,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PSME,1,1.3,50,
+Big Slump,BSS_20230622_180_4,17,5,NA,35,30_40,60,40,0,tree,PSME,1,0.6,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,5,0_10,0,50,50,tree,PICO,1,2.3,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,5,0_10,0,50,50,tree,PICO,1,6.4,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,5,0_10,0,50,50,tree,PICO,1,4.3,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,5,0_10,0,50,50,tree,PICO,1,4.9,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,5,0_10,0,50,50,tree,PICO,1,9,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,5,0_10,0,50,50,tree,PICO,1,7.1,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,5,0_10,0,50,50,tree,PSME,1,0.3,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,15,10_20,50,50,0,shrub,PICO,1,4.6,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,15,10_20,50,50,0,shrub,PICO,1,4.4,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,15,10_20,50,50,0,shrub,PSME,0,,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,25,20_30,100,0,0,shrub,PICO,0,,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,25,20_30,100,0,0,shrub,PSME,0,,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,35,30_40,100,0,0,shrub,PICO,0,,50,
+Big Slump,BSS_20230622_348_1,19,5,NA,35,30_40,100,0,0,shrub,PSME,0,,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,5,0_10,60,20,20,shrub,PICO,0,,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,5,0_10,60,20,20,shrub,PSME,0,,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,15,10_20,100,0,0,shrub,PICO,1,7,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,15,10_20,100,0,0,shrub,PICO,1,4.8,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,15,10_20,100,0,0,shrub,PICO,1,3.4,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,15,10_20,100,0,0,shrub,PICO,1,5.6,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,15,10_20,100,0,0,shrub,PSME,0,,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,25,20_30,100,0,0,shrub,PICO,1,3.8,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,35,30_40,100,0,0,shrub,PICO,0,,50,
+Big Slump,BSS_20230622_355_3,17,5,NA,35,30_40,100,0,0,shrub,PSME,0,,50,
+Black Talus,BT_20230929_225_1,15,30,124.4,5,0_10,80,0,20,shrub/rock,PIPO,0,,300,
+Black Talus,BT_20230929_225_1,15,30,124.4,15,10_20,100,0,0,shrub/bare,PIPO,0,,300,
+Black Talus,BT_20230929_225_1,15,30,124.4,25,20_30,100,0,0,bare/shrub,PIPO,1,0.75,300,
+Black Talus,BT_20230929_225_1,15,30,124.4,25,20_30,100,0,0,bare/shrub,PIPO,1,0.55,300,
+Black Talus,BT_20230929_225_1,15,30,124.4,25,20_30,100,0,0,bare/shrub,PIPO,1,0.45,300,
+Black Talus,BT_20230929_225_1,15,30,124.4,25,20_30,100,0,0,bare/shrub,PIPO,1,0.5,300,
+Black Talus,BT_20230929_225_1,15,30,124.4,35,30_40,100,0,0,bare/shrub,PIPO,0,,300,
+Black Talus,BT_20230929_55_2,15,30,87,5,0_10,60,30,10,shrub,PIPO,0,,300,
+Black Talus,BT_20230929_55_2,15,30,87,15,10_20,100,0,0,bare/shrub,PIPO,0,,300,
+Black Talus,BT_20230929_55_2,15,30,87,25,20_30,100,0,0,bare/shrub,PIPO,0,,300,
+Black Talus,BT_20230929_55_2,15,30,87,35,30_40,100,0,0,bare/shrub,PIPO,0,,300,
+Calf,Calf_20230622_100_1,18,5,NA,5,0_10,95,0,5,herbaceous,PICO,0,,50,
+Calf,Calf_20230622_100_1,18,5,NA,15,10_20,100,0,0,grass,PICO,1,6.3,50,
+Calf,Calf_20230622_100_1,18,5,NA,15,10_20,100,0,0,grass,PICO,1,5.4,50,
+Calf,Calf_20230622_100_1,18,5,NA,15,10_20,100,0,0,grass,PICO,1,4,50,
+Calf,Calf_20230622_100_1,18,5,NA,15,10_20,100,0,0,grass,PICO,1,3.4,50,
+Calf,Calf_20230622_100_1,18,5,NA,15,10_20,100,0,0,grass,PICO,1,2.4,50,
+Calf,Calf_20230622_100_1,18,5,NA,25,20_30,100,0,0,grass,PICO,0,,50,
+Calf,Calf_20230622_100_1,18,5,NA,35,30_40,100,0,0,grass,PICO,1,1.4,50,
+Calf,Calf_20230622_100_1,18,5,NA,35,30_40,100,0,0,grass,PICO,1,1.7,50,
+Calf,Calf_20230622_267_2,23,5,NA,5,0_10,95,0,5,herbaceous,PICO,0,,50,
+Calf,Calf_20230622_267_2,23,5,NA,15,10_20,100,0,0,grass,PICO,0,,50,
+Calf,Calf_20230622_267_2,23,5,NA,25,20_30,100,0,0,grass,PICO,0,,50, 
+Calf,Calf_20230622_267_2,23,5,NA,35,30_40,100,0,0,shrub,PICO,0,,50,
+Cave,Cave_20230629_167_1,32,5,427.9,5,0_10,10,70,20,shrub,PSME,0,,50,
+Cave,Cave_20230629_167_1,32,5,427.9,15,10_20,100,0,0,shrub/rock,PSME,1,0.33,50,
+Cave,Cave_20230629_167_1,32,5,427.9,15,10_20,100,0,0,shrub/rock,PSME,1,0.96,50,
+Cave,Cave_20230629_167_1,32,5,427.9,25,20_30,50,0,50,shrub/rock,PSME,0,,50,
+Cave,Cave_20230629_167_1,32,5,427.9,35,30_40,100,0,0,shrub/rock,PSME,0,,50,
+Cave,Cave_20230629_342_2,21,5,485,5,0_10,30,70,0,shrub/bare,PSME,0,,50,
+Cave,Cave_20230629_342_2,21,5,485,15,10_20,0,30,70,shrub,PSME,0,,50,
+Cave,Cave_20230629_342_2,21,5,485,25,20_30,100,0,0,shrub/herbaceous,PSME,0,,50,
+Cave,Cave_20230629_342_2,21,5,485,35,30_40,100,0,0,shrub/rock/grass,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.9,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,1,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,1.1,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.3,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.1,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,4.1,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.55,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,1.2,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.25,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.75,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,1.2,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.35,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,0.4,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PSME,1,1.65,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PICO,1,0.5,50,Very dense cluster of PIPO/PSME in this distance bin
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PICO,1,0.25,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,5,0_10,20,80,0,tree/shrub,PICO,1,0.15,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PICO,1,0.7,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PICO,1,0.1,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PICO,1,0.3,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PSME,1,0.7,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PSME,1,1.3,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PSME,1,0.7,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PSME,1,0.7,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PSME,1,0.85,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,15,10_20,60,40,0,tree/shrub,PSME,1,1.85,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,0.25,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,0.2,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,0.5,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,0.5,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,0.35,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,0.25,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,0.1,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PICO,1,7.2,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,1.1,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,0.4,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,1.75,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,0.55,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,1.25,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,1.35,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,2.7,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,0.1,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,0.55,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,1.55,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,0.75,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,0.8,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,1.1,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,1.6,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,25,20_30,70,30,0,tree/shrub,PSME,1,0.2,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.75,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.25,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,1.2,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,4.6,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.3,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.4,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.3,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.2,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.55,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.55,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.8,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,1.2,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,2.8,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PSME,1,0.75,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PICO,1,6.8,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PICO,1,6.2,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PICO,1,7.8,50,
+Ceanothus,Ceanothus_20230919_160_2,15,5,103.4,35,30_40,70,30,0,tree/shrub,PICO,1,1.45,50,
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,5,0_10,0,100,0,shrub,PSME,1,1.2,50,
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,5,0_10,0,100,0,shrub,PICO,0,,50,"Quick transition into upland vegetation/habitat due to steep ravine ""walls""."
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,15,10_20,0,100,0,shrub,PSME,0,,50,
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,15,10_20,0,100,0,shrub,PICO,0,,50,
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,25,20_30,50,50,0,shrub/bare,PSME,0,,50,
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,25,20_30,50,50,0,shrub/bare,PICO,0,,50,
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,35,30_40,100,0,0,shrub/grass,PSME,1,0.2,50,
+Ceanothus,Ceanothus_20230919_347_1,5,5,69.66666667,35,30_40,100,0,0,shrub/grass,PICO,0,,50,
+Pioneer Complex,Complex_20230703_152_1,28,5,NA,15,10_20,100,0,0,bare/shrub,PSME,0,,50,
+Pioneer Complex,Complex_20230703_152_1,28,5,NA,25,20_30,100,0,0,bare/shrub,PSME,0,,50,
+Pioneer Complex,Complex_20230703_152_1,28,5,NA,35,30_40,100,0,0,bare/shrub,PSME,0,,50,
+Pioneer Complex,Complex_20230703_152_1,28,5,NA,5,0_10,95,0,5,bare/shrub,PSME,0,,50,
+Pioneer Complex,Complex_20230703_322_2,33,5,NA,15,10_20,100,0,0,bare/shrub,PSME,0,,50,
+Pioneer Complex,Complex_20230703_322_2,33,5,NA,25,20_30,100,0,0,bare/shrub,PSME,0,,50,
+Pioneer Complex,Complex_20230703_322_2,33,5,NA,35,30_40,100,0,0,bare/shrub,PSME,0,,50,
+Pioneer Complex,Complex_20230703_322_2,33,5,NA,5,0_10,0,100,0,bare/shrub,PSME,0,,50,
+Charred Snag,CS_20231007_205_2,30,5,500,5,0_10,100,30,0,shrub/forb,PSME,1,9,50,
+Charred Snag,CS_20231007_205_2,30,5,500,5,0_10,0,30,70,shrub/forb,PICO,1,7,50,
+Charred Snag,CS_20231007_205_2,30,5,500,5,0_10,0,30,70,shrub/forb,PSME,1,4.8,50,
+Charred Snag,CS_20231007_205_2,30,5,500,5,0_10,0,30,70,shrub/forb,PSME,1,1.3,50,
+Charred Snag,CS_20231007_205_2,30,5,500,15,10_20,100,0,0,shrub/grass,PICO,1,5.1,50,
+Charred Snag,CS_20231007_205_2,30,5,500,15,10_20,100,0,0,shrub/grass,PSME,0,,50,
+Charred Snag,CS_20231007_205_2,30,5,500,15,10_20,100,0,0,shrub/grass,PICO,1,1.1,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,2.8,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PSME,0,,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,4.4,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,4.5,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,5.2,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,5.3,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,5.1,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,4,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,5.2,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,5.5,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,4.3,50,
+Charred Snag,CS_20231007_205_2,30,5,500,25,20_30,30,70,0,grass/tree,PICO,1,3,50,
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,3.2,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PSME,0,,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,1.8,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,5,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,4.6,50,
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,5.1,50,
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,4.8,50,
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,4.5,50,Last 5 meters in ephemeral runoff channel/ravine potentially influencing seedling presence
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,6.2,50,Last 5 meters in ephemeral runoff channel/ravine potentially influencing seedling presence
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,6.3,50,Last 5 meters in ephemeral runoff channel/ravine potentially influencing seedling presence
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,5.4,50,
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,2.8,50,
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,4,50,
+Charred Snag,CS_20231007_205_2,30,5,500,35,30_40,20,80,0,tree/grass,PICO,1,2.5,50,
+Charred Snag,CS_20231007_26_1,34,5,500,5,0_10,10,40,50,shrub,PIPO,1,3.1,50,
+Charred Snag,CS_20231007_26_1,34,5,500,5,0_10,10,40,50,shrub,PSME,0,,50,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+Charred Snag,CS_20231007_26_1,34,5,500,5,0_10,10,40,50,shrub,PICO,0,,50,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+Charred Snag,CS_20231007_26_1,34,5,500,15,10_20,100,0,0,shrub/grass,PIPO,0,,50,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+Charred Snag,CS_20231007_26_1,34,5,500,15,10_20,100,0,0,shrub/grass,PSME,0,,50,
+Charred Snag,CS_20231007_26_1,34,5,500,15,10_20,100,0,0,shrub/grass,PICO,0,,50,
+Charred Snag,CS_20231007_26_1,34,5,500,25,20_30,100,0,0,grass,PIPO,0,,50,
+Charred Snag,CS_20231007_26_1,34,5,500,25,20_30,100,0,0,grass,PSME,0,,50,
+Charred Snag,CS_20231007_26_1,34,5,500,25,20_30,100,0,0,grass,PICO,0,,50,
+Charred Snag,CS_20231007_26_1,34,5,500,35,30_40,100,0,0,grass,PIPO,0,,50,
+Charred Snag,CS_20231007_26_1,34,5,500,35,30_40,100,0,0,grass,PSME,0,,50,
+Charred Snag,CS_20231007_26_1,34,5,500,35,30_40,100,0,0,grass,PICO,0,,50,
+East Pioneer,EP_20230703_155_2,27,5,NA,5,0_10,0,0,100,riparian shrub,PSME,0,,50,
+East Pioneer,EP_20230703_155_2,27,5,NA,15,10_20,0,60,40,shrub,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+East Pioneer,EP_20230703_155_2,27,5,NA,25,20_30,40,60,0,shrub/grass,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+East Pioneer,EP_20230703_155_2,27,5,NA,35,30_40,100,0,0,shrub/grass,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+East Pioneer,EP_20230703_327_1,37,5,NA,5,0_10,0,20,80,shrub,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+East Pioneer,EP_20230703_327_1,37,5,NA,15,10_20,100,0,0,shrub/herbaceous,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+East Pioneer,EP_20230703_327_1,37,5,NA,25,20_30,100,0,0,bare/herbaceous,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+East Pioneer,EP_20230703_327_1,37,5,NA,35,30_40,100,0,0,bare/herbaceous,PSME,0,,50,Very dense cluster of PIPO/PSME in this distance bin
+Equisetum,EQ_20230929_216_1,18,10,203.7,5,0_10,70,10,20,shrub,PIPO,0,,100,Very dense cluster of PIPO/PSME in this distance bin
+Equisetum,EQ_20230929_216_1,18,10,203.7,5,0_10,70,10,20,shrub,PSME,0,,100,Very dense cluster of PIPO/PSME in this distance bin
+Equisetum,EQ_20230929_216_1,18,10,203.7,15,10_20,100,0,0,shrub/bare,PIPO,0,,100,Very dense cluster of PIPO/PSME in this distance bin
+Equisetum,EQ_20230929_216_1,18,10,203.7,15,10_20,100,0,0,shrub/bare,PSME,0,,100,Very dense cluster of PIPO/PSME in this distance bin
+Equisetum,EQ_20230929_216_1,18,10,203.7,25,20_30,100,0,0,shrub/bare,PIPO,0,,100,
+Equisetum,EQ_20230929_216_1,18,10,203.7,25,20_30,100,0,0,shrub/bare,PSME,0,,100,
+Equisetum,EQ_20230929_216_1,18,10,203.7,35,30_40,100,0,0,shrub/bare,PIPO,0,,100,
+Equisetum,EQ_20230929_216_1,18,10,203.7,35,30_40,100,0,0,shrub/bare,PSME,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,5,0_10,10,20,70,shrub,PIPO,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,5,0_10,10,20,70,shrub,PSME,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,15,10_20,100,0,0,shrub/bare,PIPO,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,15,10_20,100,0,0,shrub/bare,PSME,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,25,20_30,100,0,0,shrub/bare,PIPO,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,25,20_30,100,0,0,shrub/bare,PSME,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,35,30_40,100,0,0,shrub/bare,PIPO,0,,100,
+Equisetum,EQ_20230929_58_2,20,10,183.5,35,30_40,100,0,0,shrub/bare,PSME,0,,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,5,0_10,10,70,20,shrub,PSME,1,0.2,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,5,0_10,10,70,20,shrub,PSME,1,1.1,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,5,0_10,10,70,20,shrub,PSME,1,0.2,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_138_1,7,10,376.4,5,0_10,10,70,20,shrub,PSME,1,2.05,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_138_1,7,10,376.4,5,0_10,10,70,20,shrub,PSME,1,0.85,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_138_1,7,10,376.4,5,0_10,10,70,20,shrub,PIPO,1,0.55,100,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Fireweed,FW_20230928_138_1,7,10,376.4,15,10_20,0,0,100,bare/shrub/grass,PICO,1,4,100,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Fireweed,FW_20230928_138_1,7,10,376.4,15,10_20,0,0,100,bare/shrub/grass,PSME,1,0.2,100,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Fireweed,FW_20230928_138_1,7,10,376.4,15,10_20,0,0,100,bare/shrub/grass,PSME,1,0.75,100,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Fireweed,FW_20230928_138_1,7,10,376.4,15,10_20,0,0,100,bare/shrub/grass,PIPO,0,,100,Transect runs through higher severity patch than other 2 transects. 
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,0.3,100,"Transect perpendicular to main channel downstream of confluence. Very steep slope directly from spring channel, mostly brush with riparian very near water and brush on hillslope."
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,1.6,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,0.65,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,2,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,1.8,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,2.6,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,0.2,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,0.4,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PSME,1,3.3,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PICO,1,5.5,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PICO,1,3.8,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,25,20_30,0,0,100,grass/shrub,PIPO,0,,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,35,30_40,100,0,0,bare/grass,PSME,1,0.05,100,
+Fireweed,FW_20230928_138_1,7,10,376.4,35,30_40,100,0,0,bare/grass,PSME,1,2.4,100,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Fireweed,FW_20230928_138_1,7,10,376.4,35,30_40,100,0,0,bare/grass,PICO,0,,100,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Fireweed,FW_20230928_138_1,7,10,376.4,35,30_40,100,0,0,bare/grass,PIPO,0,,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PICO,1,5.3,100,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PICO,1,4.7,100,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PICO,1,3.9,100,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PICO,1,5.2,100,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PICO,1,2.7,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PICO,1,2.7,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PICO,1,0.65,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,5,0_10,30,70,0,shrub,PSME,1,1,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,15,10_20,0,20,80,shrub,PSME,1,0.6,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,15,10_20,0,20,80,shrub,PSME,1,1.5,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,15,10_20,0,20,80,shrub,PICO,1,0.7,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,15,10_20,0,20,80,shrub,PICO,1,6.9,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,15,10_20,0,20,80,shrub,PICO,1,4.6,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,15,10_20,0,20,80,shrub,PICO,1,4.9,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,15,10_20,0,20,80,shrub,PICO,1,7,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PSME,1,1.35,100,Transect on eastern arm of spring complex. Initial slope is very steep and then around 12 meters the slope moderates. First conifer found right at slope break. 
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PSME,1,0.3,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PSME,1,4,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PICO,1,4.3,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PICO,1,2.8,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PICO,1,2.1,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PICO,1,1.8,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,25,20_30,0,50,50,shrub,PICO,1,3.9,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,35,30_40,0,0,100,shrub,PSME,1,0.8,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,35,30_40,0,0,100,shrub,PSME,1,1.5,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,35,30_40,0,0,100,shrub,PSME,1,1.3,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,35,30_40,0,0,100,shrub,PSME,1,1.65,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,35,30_40,0,0,100,shrub,PSME,1,2.05,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,35,30_40,0,0,100,shrub,PSME,1,1.1,100,
+Fireweed,FW_20230928_315_2,3,10,309.7,35,30_40,0,0,100,shrub,PICO,0,,100,
+Game Knob,GK_20230702_145_2,20,5,35.8,35,30_40,95,5,0,grass/shrub,PSME,1,0.1,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,35,30_40,95,5,0,grass/shrub,PSME,1,0.15,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,35,30_40,95,5,0,grass/shrub,PSME,1,0.4,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,35,30_40,95,5,0,grass/shrub,PSME,1,0.6,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,35,30_40,95,5,0,grass/shrub,PSME,1,0.3,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.35,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.6,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.55,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.3,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.3,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.55,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.2,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.65,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.45,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.35,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.6,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.4,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.95,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.5,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.5,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.3,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,15,10_20,20,80,0,shrub,PSME,1,0.4,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.9,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,1.6,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.25,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.25,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.25,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.85,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.45,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,2,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.75,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.25,50,Thick ceanothus
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.2,50,
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.3,50,This section is getting close to secondary wetland we didn't see initially.
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.6,50,This section is getting close to secondary wetland we didn't see initially.
+Game Knob,GK_20230702_145_2,20,5,35.8,25,20_30,20,80,0,shrub,PSME,1,0.8,50,This section is getting close to secondary wetland we didn't see initially.
+Game Knob,GK_20230702_145_2,20,5,35.8,5,0_10,0,100,0,shrub,PSME,1,0.05,50,This section is getting close to secondary wetland we didn't see initially.
+Game Knob,GK_20230702_145_2,20,5,35.8,5,0_10,0,100,0,shrub,PSME,1,0.02,50,This section is getting close to secondary wetland we didn't see initially.
+Game Knob,GK_20230702_145_2,20,5,35.8,5,0_10,0,100,0,shrub,PSME,1,0.01,50,This section is getting close to secondary wetland we didn't see initially.
+Game Knob,GK_20230702_145_2,20,5,35.8,5,0_10,0,100,0,shrub,PSME,1,0.01,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Game Knob,GK_20230702_145_2,20,5,35.8,5,0_10,0,100,0,shrub,PSME,1,0.01,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Game Knob,GK_20230702_145_2,20,5,35.8,5,0_10,0,100,0,shrub,PSME,1,0.35,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Game Knob,GK_20230702_315_1,25,5,18.8,15,10_20,80,20,0,shrub,PSME,1,0.2,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Game Knob,GK_20230702_315_1,25,5,18.8,15,10_20,80,20,0,shrub,PSME,1,0.05,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,15,10_20,80,20,0,shrub,PSME,1,0.05,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,25,20_30,80,20,0,shrub,PSME,0,,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,5,0_10,40,60,0,shrub/bare,PSME,1,0.3,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,5,0_10,40,60,0,shrub/bare,PSME,1,0.2,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,5,0_10,40,60,0,shrub/bare,PSME,1,0.3,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,35,30_40,30,70,0,shrub,PSME,1,0.5,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,35,30_40,30,70,0,shrub,PSME,1,1,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,35,30_40,30,70,0,shrub,PSME,1,0.2,50,
+Game Knob,GK_20230702_315_1,25,5,18.8,35,30_40,30,70,0,shrub,PSME,1,0.2,50,
+Game Knob,GK_20230702_320_3,21,5,45.6,25,20_30,100,0,0,shrub,PSME,1,0.1,50,
+Game Knob,GK_20230702_320_3,21,5,45.6,35,30_40,80,20,0,shrub,PSME,1,1.2,50,
+Game Knob,GK_20230702_320_3,21,5,45.6,5,0_10,40,60,0,shrub,PSME,1,0.65,50,
+Game Knob,GK_20230702_320_3,21,5,45.6,15,10_20,20,80,0,shrub,PSME,1,1.3,50,
+Gun Shot,GS_20231008_115_2,33,10,247.7,15,10_20,100,0,0,grass/shrub,PSME,1,1.35,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,15,10_20,100,0,0,grass/shrub,PSME,1,0.15,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,15,10_20,100,0,0,grass/shrub,PSME,1,0.7,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,15,10_20,100,0,0,grass/shrub,PSME,1,0.85,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,15,10_20,100,0,0,grass/shrub,PSME,1,1.45,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,25,20_30,100,0,0,grass/shrub,PSME,1,0.75,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,25,20_30,100,0,0,grass/shrub,PSME,1,1.9,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,25,20_30,100,0,0,grass/shrub,PSME,1,2.4,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,25,20_30,100,0,0,grass/shrub,PSME,1,0.85,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,25,20_30,100,0,0,grass/shrub,PSME,1,2.6,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,35,30_40,100,0,0,grass/shrub,PSME,0,,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,3.6,100,
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,1.65,100,Thick ceanothus
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,1.3,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,5.7,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,5.4,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,1.8,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,4.4,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,4.4,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,4.4,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,1.2,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,0.7,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_115_2,33,10,247.7,5,0_10,20,70,10,shrub,PSME,1,0.5,100,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_293_1,28,20,314.6,25,20_30,100,0,0,rock/grass,PSME,0,,200,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_293_1,28,20,314.6,35,30_40,100,0,0,rock/grass,PSME,1,5.4,200,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_293_1,28,20,314.6,15,10_20,100,0,0,rock/grass,PSME,1,3.2,200,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Gun Shot,GS_20231008_293_1,28,20,314.6,5,0_10,20,20,60,shrub/rock,PSME,1,0.6,200,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Helesport,Helesport_20230629_100_2,26,5,285,15,10_20,100,0,0,bare/shrub,PSME,1,0.6,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Helesport,Helesport_20230629_100_2,26,5,285,15,10_20,100,0,0,bare/shrub,PSME,1,0.3,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Helesport,Helesport_20230629_100_2,26,5,285,15,10_20,100,0,0,bare/shrub,PSME,1,0.35,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Helesport,Helesport_20230629_100_2,26,5,285,15,10_20,100,0,0,bare/shrub,PSME,1,1.7,50,Potentially small ephemeral runoff channel within this bin influencing tree presence
+Helesport,Helesport_20230629_100_2,26,5,285,25,20_30,100,0,0,shrub/grass,PSME,1,0.15,50,
+Helesport,Helesport_20230629_100_2,26,5,285,25,20_30,100,0,0,shrub/grass,PSME,1,0.68,50,
+Helesport,Helesport_20230629_100_2,26,5,285,35,30_40,100,0,0,grass,PSME,1,0.23,50,
+Helesport,Helesport_20230629_100_2,26,5,285,35,30_40,100,0,0,grass,PSME,1,0.9,50,
+Helesport,Helesport_20230629_100_2,26,5,285,35,30_40,100,0,0,grass,PSME,1,1.7,50,
+Helesport,Helesport_20230629_100_2,26,5,285,35,30_40,100,0,0,grass,PSME,1,2.15,50,
+Helesport,Helesport_20230629_100_2,26,5,285,5,0_10,70,30,0,shrub,PSME,0,,50,
+Helesport,Helesport_20230629_108_4,22,5,240,5,0_10,0,90,10,shrub/herbaceous,PSME,1,2.8,50,
+Helesport,Helesport_20230629_108_4,22,5,240,5,0_10,0,90,10,shrub/herbaceous,PICO,0,,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,15,10_20,0,70,30,shrub,PSME,0,,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,15,10_20,0,70,30,shrub,PICO,0,,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,25,20_30,90,10,0,shrub/herbaceous,PSME,1,2.2,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,25,20_30,90,10,0,shrub/herbaceous,PSME,1,0.6,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,25,20_30,90,10,0,shrub/herbaceous,PICO,1,2.9,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,35,30_40,100,0,0,shrub/herbaceous,PSME,1,0.46,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,35,30_40,100,0,0,shrub/herbaceous,PSME,1,0.4,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,35,30_40,100,0,0,shrub/herbaceous,PSME,1,1.45,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,35,30_40,100,0,0,shrub/herbaceous,PSME,1,2.5,50,Thick ceanothus
+Helesport,Helesport_20230629_108_4,22,5,240,35,30_40,100,0,0,shrub/herbaceous,PICO,0,,50,Thick ceanothus
+Helesport,Helesport_20230629_292_3,33,5,265,5,0_10,0,20,80,riparian/shrub,PSME,0,,50,Increasingly close to seed source with increasing transect distance
+Helesport,Helesport_20230629_292_3,33,5,265,5,0_10,0,20,80,riparian/shrub,PICO,0,,50,Increasingly close to seed source with increasing transect distance
+Helesport,Helesport_20230629_292_3,33,5,265,15,10_20,0,50,50,shrub,PSME,0,,50,Increasingly close to seed source with increasing transect distance
+Helesport,Helesport_20230629_292_3,33,5,265,15,10_20,0,50,50,shrub,PICO,0,,50,
+Helesport,Helesport_20230629_292_3,33,5,265,25,20_30,0,100,0,shrub,PSME,0,,50,
+Helesport,Helesport_20230629_292_3,33,5,265,25,20_30,0,100,0,shrub,PICO,0,,50,
+Helesport,Helesport_20230629_292_3,33,5,265,35,30_40,80,20,0,shrub,PSME,0,,50,
+Helesport,Helesport_20230629_292_3,33,5,265,35,30_40,80,20,0,shrub,PICO,0,,50,
+Helesport,Helesport_20230629_348_1,30,5,300,35,30_40,100,0,0,herbaceous/bare,PSME,0,,50,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Helesport,Helesport_20230629_348_1,30,5,300,35,30_40,100,0,0,herbaceous/bare,PICO,0,,50,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Helesport,Helesport_20230629_348_1,30,5,300,25,20_30,95,5,0,shrub,PSME,0,,50,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Helesport,Helesport_20230629_348_1,30,5,300,25,20_30,95,5,0,shrub,PICO,0,,50,Transect runs through higher severity patch than other 2 transects. 
+Helesport,Helesport_20230629_348_1,30,5,300,15,10_20,30,0,70,shrub,PSME,0,,50,
+Helesport,Helesport_20230629_348_1,30,5,300,15,10_20,30,0,70,shrub,PICO,0,,50,
+Helesport,Helesport_20230629_348_1,30,5,300,5,0_10,0,10,90,shrub,PSME,0,,50,
+Helesport,Helesport_20230629_348_1,30,5,300,5,0_10,0,10,90,shrub,PICO,0,,50,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,25,20_30,100,0,0,grass,PSME,0,,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,35,30_40,100,0,0,shrub,PSME,0,,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,15,10_20,90,10,0,grass,PSME,1,1.2,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,15,10_20,90,10,0,grass,PSME,1,2.6,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,15,10_20,90,10,0,grass,PSME,1,2.4,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,5.3,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,5.6,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,5.3,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,1.9,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,6.8,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,1.56,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,2.3,25,
+Hole Complex,Hole_20230620_275_3,18,2.5,141,5,0_10,0,70,30,tree,PSME,1,1.65,25,
+Hole Complex,Hole_20230620_41_1,26,5,78,35,30_40,100,0,0,shrub,PSME,0,,50,
+Hole Complex,Hole_20230620_41_1,26,5,78,25,20_30,40,60,0,shrub,PSME,1,3.1,50,
+Hole Complex,Hole_20230620_41_1,26,5,78,25,20_30,40,60,0,shrub,PSME,1,2.3,50,
+Hole Complex,Hole_20230620_41_1,26,5,78,25,20_30,40,60,0,shrub,PSME,1,1.14,50,
+Hole Complex,Hole_20230620_41_1,26,5,78,25,20_30,40,60,0,shrub,PSME,1,3.5,50,
+Hole Complex,Hole_20230620_41_1,26,5,78,25,20_30,40,60,0,shrub,PSME,1,3.5,50,
+Hole Complex,Hole_20230620_41_1,26,5,78,15,10_20,0,80,20,shrub,PSME,1,0.67,50,
+Hole Complex,Hole_20230620_41_1,26,5,78,5,0_10,0,20,80,grass/shrub,PSME,1,0.07,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,35,30_40,100,0,0,shrub,PSME,1,3.5,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,35,30_40,100,0,0,shrub,PSME,1,3.1,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,5.3,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,4.5,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,4.5,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,3.2,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,2.3,50,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,3.2,50,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,3.7,50,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Hole Complex,Hole_20230620_55_2,15,5,53.5,25,20_30,90,10,0,grass,PSME,1,3.9,50,Very close to surrounding seed sources along the entire transect. Did not include one very tall mature tree because it was clearly pre-fire. 
+Hole Complex,Hole_20230620_55_2,15,5,53.5,15,10_20,30,70,0,tree,PSME,1,4.2,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,15,10_20,30,70,0,tree,PSME,1,3.8,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,15,10_20,30,70,0,tree,PSME,1,4.2,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,15,10_20,30,70,0,tree,PSME,1,5,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,15,10_20,30,70,0,tree,PSME,1,2.3,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,15,10_20,30,70,0,tree,PSME,1,5.5,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,15,10_20,30,70,0,tree,PSME,1,3.3,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,5,0_10,0,70,30,shrub,PSME,1,5.6,50,
+Hole Complex,Hole_20230620_55_2,15,5,53.5,5,0_10,0,70,30,shrub,PSME,1,5.6,50,Increasingly close to seed source with increasing transect distance
+Hole Complex,Hole_20230620_55_2,15,5,53.5,5,0_10,0,70,30,shrub,PSME,1,5.5,50,Increasingly close to seed source with increasing transect distance
+Little Hole,LH_20230929_219_2,15,20,69.9,5,0_10,75,20,5,shrub,PIPO,0,,200,Increasingly close to seed source with increasing transect distance
+Little Hole,LH_20230929_219_2,15,20,69.9,5,0_10,75,20,5,shrub,PSME,0,,200,Increasingly close to seed source with increasing transect distance
+Little Hole,LH_20230929_219_2,15,20,69.9,15,10_20,100,0,0,shrub/bare,PIPO,0,,200,Increasingly close to seed source with increasing transect distance
+Little Hole,LH_20230929_219_2,15,20,69.9,15,10_20,100,0,0,shrub/bare,PSME,1,0.15,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,15,10_20,100,0,0,shrub/bare,PSME,1,0.3,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,25,20_30,80,20,0,shrub,PIPO,0,,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,25,20_30,80,20,0,shrub,PSME,1,0.2,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,25,20_30,80,20,0,shrub,PSME,1,1.9,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,25,20_30,80,20,0,shrub,PSME,1,2.05,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,25,20_30,80,20,0,shrub,PSME,1,2.05,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,25,20_30,80,20,0,shrub,PSME,1,0.3,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,25,20_30,80,20,0,shrub,PSME,1,0.6,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,1.9,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,0.6,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,2,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,2.4,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,0.55,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,2.1,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,2.1,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,0.45,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PSME,1,2,200,
+Little Hole,LH_20230929_219_2,15,20,69.9,35,30_40,20,80,0,shrub,PIPO,1,1.65,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,5,0_10,0,10,90,shrub,PSME,1,0.9,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,5,0_10,0,10,90,shrub,PIPO,1,0.55,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,15,10_20,100,0,0,shrub/rock,PIPO,0,,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,15,10_20,100,0,0,shrub/rock,PSME,0,,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,25,20_30,100,0,0,shrub/rock,PSME,1,0.4,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,25,20_30,100,0,0,shrub/rock,PIPO,0,,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,35,30_40,100,0,0,shrub/rock,PIPO,0,,200,
+Little Hole,LH_20230929_39_1,13,20,99.9,35,30_40,100,0,0,shrub/rock,PSME,0,,200,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PSME,1,0.35,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PSME,1,1.25,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PSME,1,4.6,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PSME,1,2.7,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PSME,1,1.1,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PICO,1,3.1,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PICO,1,5,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PICO,1,7.2,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,5,0_10,0,50,50,grass/shrub,PIPO,0,,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,15,10_20,100,0,0,grass/shrub,PICO,1,1.6,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,15,10_20,100,0,0,grass/shrub,PSME,1,0.7,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,15,10_20,100,0,0,grass/shrub,PSME,1,0.7,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,15,10_20,100,0,0,grass/shrub,PIPO,0,,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PSME,1,1.15,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PSME,1,0.3,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PSME,1,0.5,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PSME,1,0.8,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PSME,1,0.15,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PICO,1,0.65,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PICO,1,5.3,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PIPO,1,0.3,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PIPO,1,0.25,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,25,20_30,100,0,0,grass,PIPO,1,0.6,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,0.6,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,0.4,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,0.3,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,0.25,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,2.6,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,0.2,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,0.2,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PSME,1,0.3,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PIPO,1,1.75,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PIPO,1,1.75,100,
+Meadow,Meadow_20231007_215_2,20,10,250.1,35,30_40,100,0,0,grass,PICO,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,5,0_10,20,80,0,grass/shrub,PIPO,1,2.5,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,15,10_20,100,0,0,grass,PSME,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,15,10_20,100,0,0,grass,PSME,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,15,10_20,100,0,0,grass,PIPO,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,15,10_20,100,0,0,grass,PICO,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,25,20_30,100,0,0,grass,PIPO,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,25,20_30,100,0,0,grass,PSME,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,25,20_30,100,0,0,grass,PICO,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,35,30_40,100,0,0,grass,PIPO,0,,100,Transect runs through higher severity patch than other 2 transects. 
+Meadow,Meadow_20231007_25_1,27,10,268.6,35,30_40,100,0,0,grass,PSME,0,,100,
+Meadow,Meadow_20231007_25_1,27,10,268.6,35,30_40,100,0,0,grass,PICO,0,,100,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,25,20_30,100,0,0,grass/shrub,PSME,1,2.42,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,25,20_30,100,0,0,grass/shrub,PSME,1,1.15,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,35,30_40,100,0,0,grass/shrub,PSME,0,,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,15,10_20,90,10,0,tree,PSME,1,2.2,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,15,10_20,90,10,0,tree,PSME,1,1.85,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,15,10_20,90,10,0,tree,PSME,1,3.1,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,15,10_20,90,10,0,tree,PSME,1,2.1,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,3.1,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,3.2,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,3,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,3.6,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,7.9,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,3,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,2.9,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,1.93,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,2.6,50,
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,2.7,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,3.2,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,4,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,5.1,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,2.47,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_225_4,20,5,61.7,5,0_10,0,100,0,riparian brush/tree,PSME,1,3.6,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,15,10_20,100,0,0,grass/shrub,PSME,0,,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,25,20_30,100,0,0,shrub,PSME,0,,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,35,30_40,100,0,0,grass/shrub,PSME,0,,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,1,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,0.45,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,0.87,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,1.3,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,0.55,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,1.7,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3.7,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,4.1,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,0.5,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3.1,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,2.45,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,2.3,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,1.35,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,4.4,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,4.3,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,2.42,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,4.1,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,5.2,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,4,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,2.7,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,2.65,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3.9,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,0.94,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,2.7,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,2.65,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,1.55,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3.4,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3.6,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,3.5,50,
+Nettle Complex,Nettle_20230627_245_3,20,5,79.5,5,0_10,0,100,0,tree,PSME,1,6.2,50,
+Nettle Complex,Nettle_20230627_50_1,24,5,126,25,20_30,100,0,0,grass/shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Nettle Complex,Nettle_20230627_50_1,24,5,126,35,30_40,100,0,0,grass/shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Nettle Complex,Nettle_20230627_50_1,24,5,126,15,10_20,10,0,90,riparian shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Nettle Complex,Nettle_20230627_50_1,24,5,126,5,0_10,0,0,100,riparian shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Nettle Complex,Nettle_20230627_55_2,20,5,126,25,20_30,100,0,0,grass/shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Nettle Complex,Nettle_20230627_55_2,20,5,126,35,30_40,100,0,0,grass/shrub,PSME,1,2.7,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Nettle Complex,Nettle_20230627_55_2,20,5,126,15,10_20,50,0,50,riparian shrub/grass,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+Nettle Complex,Nettle_20230627_55_2,20,5,126,5,0_10,0,0,100,riparian shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,5,0_10,0,100,0,shrub,PICO,1,2.3,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,5,0_10,0,100,0,shrub,PICO,1,4,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,5,0_10,0,100,0,shrub,PICO,1,4.7,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,5,0_10,0,100,0,shrub,PICO,1,5.2,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,5,0_10,0,100,0,shrub,PSME,1,0.3,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,5,0_10,0,100,0,shrub,PSME,1,0.82,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,5,0_10,0,100,0,shrub,PSME,1,1.6,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,15,10_20,20,80,0,shrub,PSME,1,1.1,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,15,10_20,20,80,0,shrub,PSME,1,1.65,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,15,10_20,20,80,0,shrub,PSME,1,1.45,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,15,10_20,20,80,0,shrub,PSME,1,1.06,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,15,10_20,20,80,0,shrub,PSME,1,0.1,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,15,10_20,20,80,0,shrub,PSME,1,0.09,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,15,10_20,20,80,0,shrub,PICO,1,4.3,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,25,20_30,100,0,0,grass/shrub,PICO,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,25,20_30,100,0,0,grass/shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,35,30_40,100,0,0,grass/shrub,PICO,1,2.15,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_245_1,30,5,90.4,35,30_40,100,0,0,grass/shrub,PSME,0,,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_265_4,20,5,82,5,0_10,0,10,30,shrub,PSME,1,0.2,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_265_4,20,5,82,5,0_10,0,10,30,shrub,PSME,1,0.9,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_265_4,20,5,82,5,0_10,0,10,30,shrub,PICO,1,4.2,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_265_4,20,5,82,5,0_10,0,10,30,shrub,PICO,1,3.5,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_265_4,20,5,82,5,0_10,0,10,30,shrub,PICO,1,3.9,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_265_4,20,5,82,15,10_20,5,95,0,shrub,PSME,1,0.45,50,"Distinct vegetation edge showing edge of water influence. Veg mix in spring area (alder + PSME), little to no ground cover. Transition to upland veg abrupt. Upland area on steep NE facing slope."
+North Pioneer,NPioneer_20230630_265_4,20,5,82,15,10_20,5,95,0,shrub,PSME,1,1.55,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,15,10_20,5,95,0,shrub,PSME,1,1.25,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,15,10_20,5,95,0,shrub,PSME,1,0.6,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,15,10_20,5,95,0,shrub,PSME,1,0.25,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,15,10_20,5,95,0,shrub,PSME,1,3.3,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,25,20_30,50,50,0,shrub,PSME,1,1,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,25,20_30,50,50,0,shrub,PSME,1,1.5,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,25,20_30,50,50,0,shrub,PSME,1,0.25,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,25,20_30,50,50,0,shrub,PSME,1,0.2,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,35,30_40,100,0,0,grass/shrub,PSME,1,1.8,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,15,10_20,5,95,0,shrub,PICO,0,,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,25,20_30,50,50,0,shrub,PICO,0,,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_265_4,20,5,82,35,30_40,100,0,0,grass/shrub,PICO,0,,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.2,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,3.8,50,Distinct vegetation edge right at ~10 meters from spring. PSME clustered along outer edge of riparian zone. 
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.4,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,1.5,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.2,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.5,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.15,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.2,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.5,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.15,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.2,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,2.55,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,1.1,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,1.25,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,2.1,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.07,50,"Transect perpendicular to main channel downstream of confluence. Very steep slope directly from spring channel, mostly brush with riparian very near water and brush on hillslope."
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PSME,1,0.1,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PICO,1,3,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,5,0_10,30,70,0,shrub,PIEN,1,0.4,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,15,10_20,90,10,0,shrub,PICO,1,3.5,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,15,10_20,90,10,0,shrub,PSME,1,0.8,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,15,10_20,90,10,0,shrub,PSME,1,1.78,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,15,10_20,90,10,0,shrub,PSME,1,1.1,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,15,10_20,90,10,0,shrub,PSME,1,1.6,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,15,10_20,90,10,0,shrub,PIEN,0,,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,25,20_30,100,0,0,grass/shrub,PICO,0,,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,25,20_30,100,0,0,grass/shrub,PSME,0,,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,25,20_30,100,0,0,grass/shrub,PIEN,0,,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,35,30_40,100,0,0,shrub,PSME,1,0.95,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,35,30_40,100,0,0,shrub,PIEN,1,0.7,50,
+North Pioneer,NPioneer_20230630_70_2,24,5,138.8,35,30_40,100,0,0,shrub,PICO,0,,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,0.25,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,0.5,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,2.2,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,1.7,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,0.65,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,0.4,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,0.55,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PSME,1,1.2,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,15,10_20,100,0,0,shrub,PICO,1,4.2,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,15,10_20,100,0,0,shrub,PSME,1,0.6,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,15,10_20,100,0,0,shrub,PSME,1,1.4,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,15,10_20,100,0,0,shrub,PSME,1,0.8,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,25,20_30,100,0,0,shrub/bare,PSME,1,0.05,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,25,20_30,100,0,0,shrub/bare,PSME,1,1.05,50,2021 burn
+North Pioneer,NPioneer_20230630_80_3,25,5,127,35,30_40,100,0,0,grass/shrub,PICO,0,,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,35,30_40,100,0,0,grass/shrub,PSME,0,,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,5,0_10,10,90,0,shrub,PICO,0,,50,
+North Pioneer,NPioneer_20230630_80_3,25,5,127,25,20_30,100,0,0,shrub/bare,PICO,0,,50,
+Picea,Picea_20230622_04_1,15,5,NA,5,0_10,15,75,10,herbaceous,PIEN,1,2,50,
+Picea,Picea_20230622_04_1,15,5,NA,5,0_10,15,75,10,herbaceous,PIEN,1,1.6,50,
+Picea,Picea_20230622_04_1,15,5,NA,5,0_10,15,75,10,herbaceous,PIEN,1,1.4,50,
+Picea,Picea_20230622_04_1,15,5,NA,5,0_10,15,75,10,herbaceous,PIEN,1,1.2,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Picea,Picea_20230622_04_1,15,5,NA,5,0_10,15,75,10,herbaceous,PICO,0,,50,Suriving seed trees are closer to this transect which probably explains the higher number of trees on this side of the spring.
+Picea,Picea_20230622_04_1,15,5,NA,15,10_20,10,90,0,grass,PICO,1,5.1,50,
+Picea,Picea_20230622_04_1,15,5,NA,15,10_20,10,90,0,grass,PICO,1,2.8,50,
+Picea,Picea_20230622_04_1,15,5,NA,15,10_20,10,90,0,grass,PIEN,0,,50,
+Picea,Picea_20230622_04_1,15,5,NA,25,20_30,100,0,0,grass,PIEN,0,,50,
+Picea,Picea_20230622_04_1,15,5,NA,25,20_30,100,0,0,grass,PICO,0,,50,Increasingly close to seed source with increasing transect distance
+Picea,Picea_20230622_04_1,15,5,NA,35,30_40,100,0,0,grass,PIEN,0,,50,Increasingly close to seed source with increasing transect distance
+Picea,Picea_20230622_04_1,15,5,NA,35,30_40,100,0,0,grass,PICO,0,,50,Increasingly close to seed source with increasing transect distance
+Picea,Picea_20230622_174_3,15,5,NA,5,0_10,10,85,5,grass/shrub,PICO,1,2.7,50,Increasingly close to seed source with increasing transect distance
+Picea,Picea_20230622_174_3,15,5,NA,5,0_10,10,85,5,grass/shrub,PICO,1,1.5,50,Increasingly close to seed source with increasing transect distance
+Picea,Picea_20230622_174_3,15,5,NA,5,0_10,10,85,5,grass/shrub,PICO,1,5.8,50,Increasingly close to seed source with increasing transect distance
+Picea,Picea_20230622_174_3,15,5,NA,5,0_10,10,85,5,grass/shrub,PICO,1,5.6,50,
+Picea,Picea_20230622_174_3,15,5,NA,5,0_10,10,85,5,grass/shrub,PICO,1,2.6,50,
+Picea,Picea_20230622_174_3,15,5,NA,15,10_20,80,20,0,grass,PICO,1,1.9,50,
+Picea,Picea_20230622_174_3,15,5,NA,15,10_20,80,20,0,grass,PICO,1,1.1,50,
+Picea,Picea_20230622_174_3,15,5,NA,15,10_20,80,20,0,grass,PICO,1,2.2,50,
+Picea,Picea_20230622_174_3,15,5,NA,15,10_20,80,20,0,grass,PICO,1,3.5,50,Last 5 meters in ephemeral runoff channel/ravine potentially influencing seedling presence
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,3,50,Last 5 meters in ephemeral runoff channel/ravine potentially influencing seedling presence
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,4,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,4.2,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,1.9,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,2.3,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,0.8,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,1.8,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,0.6,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,1.4,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,2.1,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,3.2,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PICO,1,2.5,50,
+Picea,Picea_20230622_174_3,15,5,NA,35,30_40,20,80,0,tree,PICO,1,4.4,50,
+Picea,Picea_20230622_174_3,15,5,NA,35,30_40,20,80,0,tree,PICO,1,3.8,50,
+Picea,Picea_20230622_174_3,15,5,NA,35,30_40,20,80,0,tree,PICO,1,1.9,50,
+Picea,Picea_20230622_174_3,15,5,NA,35,30_40,20,80,0,tree,PICO,1,4.3,50,
+Picea,Picea_20230622_174_3,15,5,NA,35,30_40,20,80,0,tree,PSME,1,0.6,50,
+Picea,Picea_20230622_174_3,15,5,NA,5,0_10,10,85,5,grass/shrub,PSME,0,,50,
+Picea,Picea_20230622_174_3,15,5,NA,15,10_20,80,20,0,grass,PSME,0,,50,
+Picea,Picea_20230622_174_3,15,5,NA,25,20_30,20,80,0,tree,PSME,0,,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,5.6,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PSME,1,4.4,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,4.4,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,3.4,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,5.2,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,5.4,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,1.7,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,5.2,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,5.7,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,4.8,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,3.3,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,3.2,50,
+Picea,Picea_20230622_350_2,12,5,NA,5,0_10,0,90,10,tree,PICO,1,4.8,50,
+Picea,Picea_20230622_350_2,12,5,NA,15,10_20,80,20,0,grass,PICO,1,5.1,50,
+Picea,Picea_20230622_350_2,12,5,NA,15,10_20,80,20,0,grass,PICO,1,5.6,50,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+Picea,Picea_20230622_350_2,12,5,NA,15,10_20,80,20,0,grass,PICO,1,2.2,50,
+Picea,Picea_20230622_350_2,12,5,NA,25,20_30,100,0,0,grass,PICO,1,3.7,50,
+Picea,Picea_20230622_350_2,12,5,NA,35,30_40,100,0,0,grass,PICO,1,4.6,50,
+Picea,Picea_20230622_350_2,12,5,NA,35,30_40,100,0,0,grass,PICO,1,3,50,
+Picea,Picea_20230622_350_2,12,5,NA,15,10_20,80,20,0,grass,PSME,0,,50,
+Picea,Picea_20230622_350_2,12,5,NA,25,20_30,100,0,0,grass,PSME,0,,50,
+Picea,Picea_20230622_350_2,12,5,NA,35,30_40,100,0,0,grass,PSME,0,,50,
+Salix,Salix_20230630_100_2,26,5,185.75,5,0_10,50,50,0,shrub,PSME,1,1.8,50,
+Salix,Salix_20230630_100_2,26,5,185.75,5,0_10,50,50,0,shrub,PSME,1,0.15,50,
+Salix,Salix_20230630_100_2,26,5,185.75,15,10_20,95,5,0,grass/shrub,PSME,0,,50,
+Salix,Salix_20230630_100_2,26,5,185.75,25,20_30,100,0,0,shrub,PSME,1,0.25,50,
+Salix,Salix_20230630_100_2,26,5,185.75,35,30_40,100,0,0,grass/shrub,PSME,0,,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,5,0_10,5,90,5,grass/shrub,PICO,0,,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,5,0_10,5,90,5,grass/shrub,PSME,0,,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,15,10_20,100,0,0,grass/shrub,PICO,1,3.7,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,15,10_20,100,0,0,grass/shrub,PSME,0,,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,25,20_30,100,0,0,grass/shrub,PICO,0,,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,25,20_30,100,0,0,grass/shrub,PSME,0,,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,35,30_40,90,10,0,grass,PSME,1,0.9,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,35,30_40,90,10,0,grass,PSME,1,0.3,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,35,30_40,90,10,0,grass,PSME,1,0.7,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,35,30_40,90,10,0,grass,PSME,1,0.5,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,35,30_40,90,10,0,grass,PSME,1,4,50,
+Salix,Salix_20230630_250_1,28,5,143.6666667,35,30_40,90,10,0,grass,PICO,0,,50,
+Sedge,Sedge_20230919_200_2,15,10,97.2,35,30_40,100,0,0,shrub,PSME,1,1.7,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,35,30_40,100,0,0,shrub,PSME,1,0.95,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,25,20_30,90,10,0,shrub/grass,PSME,1,0.6,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,25,20_30,90,10,0,shrub/grass,PSME,1,1.55,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,25,20_30,90,10,0,shrub/grass,PSME,1,1.95,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,25,20_30,90,10,0,shrub/grass,PSME,1,1.7,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,25,20_30,90,10,0,shrub/grass,PSME,1,0.95,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,15,10_20,80,20,0,grass/shrub,PSME,1,1.2,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,15,10_20,80,20,0,grass/shrub,PSME,1,1,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,15,10_20,80,20,0,grass/shrub,PSME,1,1.4,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,15,10_20,80,20,0,grass/shrub,PSME,1,1.6,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,15,10_20,80,20,0,grass/shrub,PSME,1,0.85,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,15,10_20,80,20,0,grass/shrub,PSME,1,1.65,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,5,0_10,40,60,0,shrub,PSME,1,3.5,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,5,0_10,40,60,0,shrub,PSME,1,3.6,100,
+Sedge,Sedge_20230919_200_2,15,10,97.2,5,0_10,40,60,0,shrub,PSME,1,3.6,100,
+Sedge,Sedge_20230919_48_1,12,10,68.9,15,10_20,100,0,0,shrub/grass,PSME,0,,100,
+Sedge,Sedge_20230919_48_1,12,10,68.9,25,20_30,100,0,0,shrub/grass,PSME,0,,100,
+Sedge,Sedge_20230919_48_1,12,10,68.9,35,30_40,100,0,0,shrub/grass,PSME,0,,100,
+Sedge,Sedge_20230919_48_1,12,10,68.9,5,0_10,20,70,10,grass/shrub,PSME,1,2.45,100,
+West Goat,WG_20231005_18_2,2,10,88.1,5,0_10,0,60,40,shrub/grass,PSME,1,1.1,100,
+West Goat,WG_20231005_18_2,2,10,88.1,5,0_10,0,60,40,shrub/grass,PSME,1,2,100,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+West Goat,WG_20231005_18_2,2,10,88.1,5,0_10,0,60,40,shrub/grass,PSME,1,2.35,100,Transect is perpendicular to spring channel. Climbing uphill. Veg is grassy in upper part of the transect and the shrubs are much shorter than on the east facing slope on the opposite side of channel.
+West Goat,WG_20231005_18_2,2,10,88.1,5,0_10,0,60,40,shrub/grass,PSME,1,1.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,5,0_10,0,60,40,shrub/grass,PIPO,1,1.2,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,1.6,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,0.3,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,0.5,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,0.35,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,0.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,0.5,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,0.55,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PSME,1,0.3,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PIPO,1,1.7,100,
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PIPO,1,0.4,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,15,10_20,90,10,0,shrub/rock,PIPO,1,0.85,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.6,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.4,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.65,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.3,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,1.25,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.75,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.5,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.6,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.7,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.4,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.8,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.6,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.6,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.8,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.75,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.5,100,Very dense cluster of PIPO/PSME in this distance bin
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.6,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.55,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.55,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.6,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.6,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.5,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.7,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,1.4,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.85,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.35,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.4,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.5,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.5,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.7,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PSME,1,0.4,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,0.85,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,1.05,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,1.1,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,0.85,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,0.95,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,0.9,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,1.1,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,1.9,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,1.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,25,20_30,100,0,0,grass/rock,PIPO,1,0.8,100,
+West Goat,WG_20231005_18_2,2,10,88.1,35,30_40,100,0,0,bare/grass,PIPO,1,0.95,100,
+West Goat,WG_20231005_18_2,2,10,88.1,35,30_40,100,0,0,bare/grass,PSME,0,,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PIPO,1,2.7,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PIPO,1,0.3,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PIPO,1,0.5,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.05,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.75,100,"Transect perpendicular to main channel downstream of confluence. Very steep slope directly from spring channel, mostly brush with riparian very near water and brush on hillslope."
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.75,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.4,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.8,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.05,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.7,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.9,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.2,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.65,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.2,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.85,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.15,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1.45,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.5,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,1,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.55,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.7,100,
+West Goat,WG_20231005_197_1,2,10,65.5,5,0_10,0,60,40,shrub/grass,PSME,1,0.45,100,
+West Goat,WG_20231005_197_1,2,10,65.5,15,10_20,100,0,0,grass/shrub,PIPO,0,,100,
+West Goat,WG_20231005_197_1,2,10,65.5,15,10_20,100,0,0,grass/shrub,PSME,0,,100,
+West Goat,WG_20231005_197_1,2,10,65.5,25,20_30,100,0,0,grass/shrub,PSME,1,0.6,100,
+West Goat,WG_20231005_197_1,2,10,65.5,25,20_30,100,0,0,grass/shrub,PIPO,0,,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.6,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.3,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.65,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.9,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.3,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.35,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.6,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PSME,1,0.6,100,Increasingly close to seed source with increasing transect distance
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PIPO,1,0.5,100,
+West Goat,WG_20231005_197_1,2,10,65.5,35,30_40,100,0,0,shrub/rock,PIPO,1,0.4,100,"Transect perpendicular to main channel downstream of confluence. Very steep slope directly from spring channel, mostly brush with riparian very near water and brush on hillslope."
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.25,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.25,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.2,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,1.05,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.5,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.2,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.3,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.15,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,0.15,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PICO,1,12,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,15,10_20,0,100,0,shrub,PICO,1,5.4,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,25,20_30,90,10,0,shrub/grass,PSME,0,,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,25,20_30,90,10,0,shrub/grass,PICO,0,,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,35,30_40,80,20,0,shrub/grass,PICO,1,7,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,35,30_40,80,20,0,shrub/grass,PICO,1,8.1,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,5,0_10,0,100,0,tree/grass,PSME,0,,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,15,10_20,0,100,0,shrub,PSME,0,,50,
+Wolf Skull,WS_20230920_227_4,12,5,213.4,35,30_40,80,20,0,shrub/grass,PSME,0,,50,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,5,0_10,0,90,10,grass/shrub,PSME,1,1.9,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,5,0_10,0,90,10,grass/shrub,PSME,1,5.4,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,5,0_10,0,90,10,grass/shrub,PSME,1,5.5,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,5,0_10,0,90,10,grass/shrub,PSME,1,0.85,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,5,0_10,0,90,10,grass/shrub,PSME,1,3.6,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,5,0_10,0,90,10,grass/shrub,PICO,0,,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,15,10_20,70,30,0,shrub,PICO,1,0.25,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,15,10_20,70,30,0,shrub,PICO,1,5.5,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,15,10_20,70,30,0,shrub,PICO,1,6.9,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,15,10_20,70,30,0,shrub,PSME,0,,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,25,20_30,100,0,0,shrub/grass,PSME,0,,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,25,20_30,100,0,0,shrub/grass,PICO,0,,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,35,30_40,100,0,0,shrub/grass,PSME,1,4.9,100,
+Wolf Skull,WS_20230920_233_2,27,10,327.5,35,30_40,100,0,0,shrub/grass,PICO,0,,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,5,0_10,25,70,5,shrub,PICO,1,4.3,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,5,0_10,25,70,5,shrub,PSME,0,,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,15,10_20,20,80,0,shrub,PSME,1,1.65,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,15,10_20,20,80,0,shrub,PICO,0,,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,25,20_30,100,0,0,shrub/grass,PSME,0,,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,25,20_30,100,0,0,shrub/grass,PICO,0,,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,35,30_40,100,0,0,shrub/grass,PSME,0,,100,
+Wolf Skull,WS_20230920_43_2,18,10,301.3,35,30_40,100,0,0,shrub/grass,PICO,0,,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,5,0_10,0,100,0,grass/shrub,PICO,1,0.6,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,5,0_10,0,100,0,grass/shrub,PICO,1,0.4,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,5,0_10,0,100,0,grass/shrub,PICO,1,0.25,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,5,0_10,0,100,0,grass/shrub,PSME,0,,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,15,10_20,80,20,0,grass,PSME,1,0.55,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,15,10_20,80,20,0,grass,PICO,0,,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,25,20_30,90,10,0,grass/shrub,PSME,1,6.6,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,25,20_30,90,10,0,grass/shrub,PICO,0,,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,35,30_40,100,0,0,shrub,PSME,1,4,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,35,30_40,100,0,0,shrub,PSME,1,4.1,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,35,30_40,100,0,0,shrub,PSME,1,4.1,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,35,30_40,100,0,0,shrub,PSME,1,1.65,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,35,30_40,100,0,0,shrub,PSME,1,2.65,100,
+Wolf Skull,WS_20230920_66_1,21,10,381,35,30_40,100,0,0,shrub,PICO,0,,100,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,5.4,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,5.3,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,5.3,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,4.6,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,4,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,4.7,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,4,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,5,0_10,0,60,40,shrub,PSME,1,3.4,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,1.4,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,2.1,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,2.6,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,2.65,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,3.5,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,4,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,4.1,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,15,10_20,0,100,0,shrub,PSME,1,1.55,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,25,20_30,80,20,0,shrub/grass,PSME,1,2.8,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,25,20_30,80,20,0,shrub/grass,PSME,1,5,50,
+Wolf Skat,WS_20231008_100_1,32,5,209.4,35,30_40,100,0,0,grass/rock,PSME,0,,50,
+Wolf Skat,WS_20231008_305_2,35,5,209.4,15,10_20,100,0,0,rock,PSME,0,,50,
+Wolf Skat,WS_20231008_305_2,35,5,209.4,25,20_30,100,0,0,grass/rock,PSME,0,,50,
+Wolf Skat,WS_20231008_305_2,35,5,209.4,35,30_40,100,0,0,grass/rock,PSME,0,,50,
+Wolf Skat,WS_20231008_305_2,35,5,209.4,5,0_10,95,5,0,grass/rock,PSME,1,3.4,50,
