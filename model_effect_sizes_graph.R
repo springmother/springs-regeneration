@@ -49,7 +49,4 @@ p = p+
 p
 
 
-ggsave(filename = "C:/Users/gpeven/OneDrive - University of Idaho/Springs Research/Data/Chap3_Regen/R_outputs/model_effect_sizes.jpeg", plot = p,  width = 10, height = 7, units = "in",dpi = 500)
-
-
 
