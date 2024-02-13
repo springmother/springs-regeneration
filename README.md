@@ -3,4 +3,5 @@ This directory contains scripts and data related to post-fire conifer regenerati
 
 Please refer to the manuscript for full study details (In review)
 
-zenodo DOI here:
+Zenodo DOI: [![DOI](https://zenodo.org/badge/754382734.svg)](https://zenodo.org/doi/10.5281/zenodo.10654951)
+
