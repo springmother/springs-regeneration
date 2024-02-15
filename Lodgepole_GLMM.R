@@ -55,8 +55,37 @@ PICO_counts =
 #################################
 
 ##########################################
+####  Poisson models #####
+##########################################
+
+M1 <- glmer(Tree_Count ~ Distance_rank.c +
+              Transect_Slope_deg.c+
+              HLI_spring.c+
+              offset(log(Area_m2))+ 
+              (1|Transect_ID), 
+            family = poisson, 
+            data = PICO_counts) 
+
+check_overdispersion(M1) # dispersion stat = 1.8
+summary(M1)
+
+M2 <- glmer(Tree_Count ~ Distance_rank.c +
+             elevation_m.c+
+              offset(log(Area_m2))+ 
+              (1|Transect_ID), 
+            family = poisson, 
+            data = PICO_counts) 
+
+check_overdispersion(M2) # dispersion stat = 1.8
+summary(M2)
+
+## try nbinom models to handle overdispersion
+
+##########################################
 ####  Negative Binomial models #####
 ##########################################
+
+
 ### try negative binomial with non-collinear vars
 M3_PICO_nb = glmmTMB(Tree_Count ~ Distance_rank.c+
                        HLI_transect.c+
