@@ -263,6 +263,13 @@ estyear_avg =
   group_by(Species, Distance_range_m) %>%
   arrange(years_fire_est) %>% 
   mutate(cumsum_avg = cumsum(avg_dens), cumsum_med = cumsum(med_dens), cumsum_min = cumsum(min_dens))
+estyear_avg1 = estyear_avg %>%
+  group_by(Species, Distance_range_m) %>%
+  summarise(tot_dens= max(cumsum_avg))
+
+estyear_avg = merge(estyear_avg1, estyear_avg, by= c("Species", "Distance_range_m"))
+estyear_avg$pct_cumul = (estyear_avg$cumsum_avg/estyear_avg$tot_dens)*100
+
 
 ############################
 ### Figures for Manuscript
@@ -274,8 +281,8 @@ avg_PSME_plot = estyear_avg %>%
   geom_bar(stat = "identity")+
   scale_x_continuous(breaks = seq(0, 35, by = 2))+
   labs(fill = "Distance to spring (m)",
-       x = "Years Since Fire",
-       title = "Douglas-fir: All fires",
+       x = "Years since fire",
+       title = "Douglas-fir: all fires",
        color = "Distance to spring (m)")+
   scale_fill_brewer(palette = "Greens", direction =-1) +  # Set fill color using Blues palette
   scale_color_brewer(palette = "Greens", direction =-1)+
@@ -295,10 +302,10 @@ avg_PSME_plot = estyear_avg %>%
 avg_PSME_plot = avg_PSME_plot +
   geom_borderline(data = estyear_avg %>%
                     filter(Species == "PSME"),
-                  aes(x = years_fire_est, y = cumsum_avg*.25, color= Distance_range_m),
+                  aes(x = years_fire_est, y = pct_cumul*21, color= Distance_range_m),
                   size = 1, bordercolour = "black",borderwidth = 0.5, show.legend = FALSE) +
-  scale_y_continuous(name = "Mean Density (trees/hectare)",
-                     sec.axis = sec_axis( ~ . / .25, name = "Cumulative Mean Density (trees/hectare)"))
+  scale_y_continuous(name = "Mean density (trees/hectare)",
+                     sec.axis = sec_axis( ~ . / 21, name = "Cumulative total percent of seedlings"))
 print(avg_PSME_plot)
 
 #### Lodgepole pine 
@@ -309,8 +316,8 @@ avg_PICO_plot = estyear_avg %>%
   geom_bar(stat = "identity")+
   scale_x_continuous(breaks = seq(0, 35, by = 2))+
   labs(fill = "Distance to spring (m)",
-       x = "Years Since Fire",
-       title = "Lodgepole pine: All fires",
+       x = "Years since fire",
+       title = "Lodgepole pine: all fires",
        color = "Distance to spring (m)")+
   scale_fill_brewer(palette = "Greens", direction =-1) +  # Set fill color using Blues palette
   scale_color_brewer(palette = "Greens", direction =-1)+
@@ -330,13 +337,11 @@ avg_PICO_plot = estyear_avg %>%
 avg_PICO_plot = avg_PICO_plot +
   geom_borderline(data = estyear_avg %>%
                     filter(Species == "PICO"),
-                  aes(x = years_fire_est, y = cumsum_avg*.5, color= Distance_range_m),
+                  aes(x = years_fire_est, y = pct_cumul*30, color= Distance_range_m),
                   size = 1, bordercolour = "black",borderwidth = 0.5, show.legend = FALSE) +
-  scale_y_continuous(name = "Mean Density (trees/hectare)",
-                     sec.axis = sec_axis( ~ . / .5, name = "Cumulative Mean Density (trees/hectare)"))
+  scale_y_continuous(name = "Mean density (trees/hectare)",
+                     sec.axis = sec_axis( ~ . / 30, name = "Cumulative total percent of seedlings"))
 print(avg_PICO_plot)
-
-
 
 
 
