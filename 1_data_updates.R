@@ -160,13 +160,15 @@ transectdata$HLI_spring = (1-cos(transectdata$aspect_rad - 45))/2
 ###############################################
 # we need to do this to add up all the trees per species per distance bin and transect
 
+
 tree_counts = 
   transectdata %>%
   group_by(Distance_range_m, Distance_rank, Species, Spring_Name, Latitude, Longitude,
            Spring_Type, Transect_ID, Forest_Type, Area_m2, Area_ha, Average_dist_to_live_tree, 
            elevation_m, HLI_spring, HLI_transect, Transect_Slope_deg, Slope, 
-           Years_Since_Fire, Fire_Year, Transect_count, Avg_tmin_degC_5yr, Avg_tmax_degC_5yr, avg_sum_precip_5yr) %>%
+           Years_Since_Fire, Fire_Year, Transect_count, No_Burns, Severity_sequence, Avg_tmax_degC_5yr, avg_sum_precip_5yr) %>%
   summarize(Tree_Count = sum(Count))
+
 
 tree_counts$Density = tree_counts$Tree_Count/tree_counts$Area_ha                   ## add density data (trees/ha)
 View(tree_counts)
